@@ -2,7 +2,6 @@ import csv
 import os
 import sys
 from urllib.parse import urlparse
-#import url
 
 file = open('test.csv')
 csvreader = csv.reader(file)
@@ -16,11 +15,10 @@ for line in csvreader:
   os.system("wget " + url)
   filename = os.path.basename(urlparse(url).path)
   os.system("gunzip " + filename)
-  input = line[2]
-  os.system("python " + 'script_busco_2 sys.argv[1:]')
+  new_filename = species_name.replace(" ", "_") + ".fa"
+  os.system("python " + 'script_busco_2 ' + filename.replace(".gz", "") + " " + new_filename)
   lineage = line[8]
-  new_filename = species_name + ".fa"
-  new_filename = new_filename.replace(" ", "_")
-  os.system("busco -i "+new_filename+" -l "+lineage+" -o '"+species_name+"' -m prot")
+  busco_output_folder = "busco_" + species_name.replace(" ", "_")
+  os.system("busco -i "+new_filename+" -l "+lineage+" -o '"+ busco_output_folder +"' -m prot")
   os.system("rm " + filename)
 

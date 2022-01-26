@@ -48,4 +48,4 @@ def get_longest_transcript(input,output,gene_start,trans_pattern="-[0-9]+"):
     #Write the output file as fasta
     SeqIO.write(out_seqs,output,"fasta")
   
-get_longest_transcript("input", "species_name", "", "\.[0-9]+$")
+get_longest_transcript(sys.argv[1], sys.argv[2], "", "\.[0-9]+$")
