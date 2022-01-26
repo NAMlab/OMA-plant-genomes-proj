@@ -1,0 +1,26 @@
+import csv
+import os
+import sys
+from urllib.parse import urlparse
+#import url
+
+file = open('test.csv')
+csvreader = csv.reader(file)
+
+headers = next(csvreader)
+
+for line in csvreader:
+  species_name = line[0]
+  print("Processing " + species_name)
+  url = line[1]
+  os.system("wget " + url)
+  filename = os.path.basename(urlparse(url).path)
+  os.system("gunzip " + filename)
+  input = line[2]
+  os.system("python " + 'script_busco_2 sys.argv[1:]')
+  lineage = line[8]
+  new_filename = species_name + ".fa"
+  new_filename = new_filename.replace(" ", "_")
+  os.system("busco -i "+new_filename+" -l "+lineage+" -o '"+species_name+"' -m prot")
+  os.system("rm " + filename)
+
