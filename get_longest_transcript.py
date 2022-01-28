@@ -24,7 +24,8 @@ def get_longest_transcript(input,output,gene_start,trans_pattern="-[0-9]+"):
     if length is longer than existing sequence replace or add the gene id sequence to dict
     '''
     for record in SeqIO.parse(input, "fasta"):
-        gene_id = record.description.split(" ")[3].replace("gene:", "")
+        # gene_id = record.description.split(" ")[3].replace("gene:", "") # This does not work with Brassica napus
+        gene_id = re.compile(r'gene[=:]([^\s]+)').search(record.description).group(1)
         if gene_pattern.match(gene_id) is None:
             continue
         if gene_id in seqs:
