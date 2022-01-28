@@ -25,7 +25,9 @@ def get_longest_transcript(input,output,gene_start,trans_pattern="-[0-9]+"):
     '''
     for record in SeqIO.parse(input, "fasta"):
         # gene_id = record.description.split(" ")[3].replace("gene:", "") # This does not work with Brassica napus
-        gene_id = re.compile(r'gene[=:]([^\s]+)').search(record.description).group(1)
+        re_find = re.compile(r'gene[=:]([^\s]+)').search(record.description)
+        # If we don't find the gene: identifier we just cut off the stuff after the last dot
+        gene_id = re_find.group(1) if re_find else re.sub(re.compile(r'\.[0-9]+$'),"",record.id)
         if gene_pattern.match(gene_id) is None:
             continue
         if gene_id in seqs:
@@ -49,4 +51,4 @@ def get_longest_transcript(input,output,gene_start,trans_pattern="-[0-9]+"):
     #Write the output file as fasta
     SeqIO.write(out_seqs,output,"fasta")
   
-get_longest_transcript(sys.argv[1], sys.argv[2], "", "\.[0-9]+$")
+get_longest_transcript(sys.argv[1], sys.argv[2], "", "")
