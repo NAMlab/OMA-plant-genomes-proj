@@ -1,0 +1,87 @@
+(
+(
+'Chara braunii':4,
+(
+'Nymphaea colorata':4,
+'Kalanchoe fedtschenkoi':4,
+'Dioscorea cayenensis subsp. rotundata':4,
+'Pistacia vera':4,
+(
+'Quercus lobata':4,
+'Juglans regia':4,
+'Corylus avellana':4
+)Fagales:4,
+(
+'Ananas comosus':4,
+(
+'Panicum hallii var. hallii':4,
+'Aegilops tauschii subsp. strangulata':4,
+'Leersia perrieri':4,
+'Saccharum spontaneum':4,
+(
+'Oryza barthii':4,
+'Oryza meridionalis':4,
+'Oryza glumipatula':4
+)Oryza:4,
+'Eragrostis curvula':4,
+(
+'Triticum dicoccoides':4,
+'Triticum spelta':4,
+'Triticum turgidum subsp. durum':4
+)Triticum:4,
+'Setaria viridis':4,
+'Secale cereale':4,
+'Hordeum vulgare':4
+)Poaceae:4
+)Poales:4,
+'Lactuca sativa':4,
+(
+'Olea europaea subsp. europaea':4,
+'Sesamum indicum':4
+)Lamiales:4,
+(
+'Ipomoea triloba':4,
+(
+'Solanum pennellii':4,
+'Solanum melongena':4,
+'Solanum pimpinellifolium':4
+)Solanum:4
+)Solanales:4,
+(
+'Trifolium pratense':4,
+'Vigna radiata var. radiata':4
+)Fabaceae:4,
+(
+'Camelina sativa':4,
+'Eutrema salsugineum':4,
+(
+'Arabidopsis lyrata subsp. lyrata':4,
+'Arabidopsis halleri subsp. gemmifera':4
+)Arabidopsis:4,
+(
+'Brassica rapa subsp. trilocularis':4,
+'Brassica nigra':4
+)Brassica:4
+)Brassicaceae:4,
+(
+'Cucumis melo':4,
+'Citrullus lanatus':4
+)Cucurbitaceae:4,
+'Beta vulgaris subsp. vulgaris':4,
+(
+(
+'Prunus avium':4,
+'Malus domestica':4
+)Rosaceae:4,
+'Ficus carica':4
+)Rosales:4
+)Magnoliopsida:4
+)Streptophyta:4,
+(
+(
+'Cyanidioschyzon merolae strain 10D':4,
+'Galdieria sulphuraria':4
+)Cyanidiaceae:4,
+'Chondrus crispus':4
+)Rhodophyta:4
+)Eukaryota:4;

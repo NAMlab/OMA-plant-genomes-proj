@@ -1,0 +1,694 @@
+{
+    "name": "Viridiplantae",
+    "id": 33090,
+    "children": [
+        {
+            "name": "Chlorophyta",
+            "id": 3041,
+            "children": [
+                {
+                    "name": "Mamiellales",
+                    "id": 13792,
+                    "children": [
+                        {
+                            "name": "Micromonas",
+                            "id": 38832,
+                            "children": [
+                                {
+                                    "name": "Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709)",
+                                    "id": 296587,
+                                    "code": "MICCC"
+                                },
+                                {
+                                    "name": "Micromonas pusilla (strain CCMP1545)",
+                                    "id": 564608,
+                                    "code": "MICPC"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ostreococcus",
+                            "id": 70447,
+                            "children": [
+                                {
+                                    "name": "Ostreococcus tauri",
+                                    "id": 70448,
+                                    "code": "OSTTA"
+                                },
+                                {
+                                    "name": "Ostreococcus lucimarinus (strain CCE9901)",
+                                    "id": 436017,
+                                    "code": "OSTLU"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "core chlorophytes",
+                    "id": 2692248,
+                    "children": [
+                        {
+                            "name": "Chlamydomonadales",
+                            "id": 3042,
+                            "children": [
+                                {
+                                    "name": "Chlamydomonas reinhardtii",
+                                    "id": 3055,
+                                    "code": "CHLRE"
+                                },
+                                {
+                                    "name": "Volvox carteri",
+                                    "id": 3067,
+                                    "code": "VOLCA"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chlorella variabilis",
+                            "id": 554065,
+                            "code": "CHLVA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Streptophyta",
+            "id": 35493,
+            "children": [
+                {
+                    "name": "Klebsormidium flaccidum",
+                    "id": 3175,
+                    "code": "KLEFL"
+                },
+                {
+                    "name": "Embryophyta",
+                    "id": 3193,
+                    "children": [
+                        {
+                            "name": "Marchantia polymorpha",
+                            "id": 3197,
+                            "code": "MARPO"
+                        },
+                        {
+                            "name": "Physcomitrium patens",
+                            "id": 3218,
+                            "code": "PHYPA"
+                        },
+                        {
+                            "name": "Tracheophyta",
+                            "id": 58023,
+                            "children": [
+                                {
+                                    "name": "Spermatophyta",
+                                    "id": 58024,
+                                    "children": [
+                                        {
+                                            "name": "Pinaceae",
+                                            "id": 3318,
+                                            "children": [
+                                                {
+                                                    "name": "Picea",
+                                                    "id": 3328,
+                                                    "children": [
+                                                        {
+                                                            "name": "Picea glauca",
+                                                            "id": 3330,
+                                                            "code": "PICGL"
+                                                        },
+                                                        {
+                                                            "name": "Picea sitchensis",
+                                                            "id": 3332,
+                                                            "code": "PICSI"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Pinus taeda",
+                                                    "id": 3352,
+                                                    "code": "PINTA"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Magnoliopsida",
+                                            "id": 3398,
+                                            "children": [
+                                                {
+                                                    "name": "Amborella trichopoda",
+                                                    "id": 13333,
+                                                    "code": "AMBTC"
+                                                },
+                                                {
+                                                    "name": "Mesangiospermae",
+                                                    "id": 1437183,
+                                                    "children": [
+                                                        {
+                                                            "name": "Papaver somniferum",
+                                                            "id": 3469,
+                                                            "code": "PAPSO"
+                                                        },
+                                                        {
+                                                            "name": "Liliopsida",
+                                                            "id": 4447,
+                                                            "children": [
+                                                                {
+                                                                    "name": "Zostera marina",
+                                                                    "id": 29655,
+                                                                    "code": "ZOSMR"
+                                                                },
+                                                                {
+                                                                    "name": "Petrosaviidae",
+                                                                    "id": 1437197,
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Asparagus officinalis",
+                                                                            "id": 4686,
+                                                                            "code": "ASPOF"
+                                                                        },
+                                                                        {
+                                                                            "name": "commelinids",
+                                                                            "id": 4734,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Poaceae",
+                                                                                    "id": 4479,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "PACMAD clade",
+                                                                                            "id": 147370,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Eragrostis tef",
+                                                                                                    "id": 110835,
+                                                                                                    "code": "ERATE"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Panicoideae",
+                                                                                                    "id": 147369,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Setaria italica",
+                                                                                                            "id": 4555,
+                                                                                                            "code": "SETIT"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Andropogoneae",
+                                                                                                            "id": 147429,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "Sorghum bicolor",
+                                                                                                                    "id": 4558,
+                                                                                                                    "code": "SORBI"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "Zea mays",
+                                                                                                                    "id": 4577,
+                                                                                                                    "code": "MAIZE"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "BOP clade",
+                                                                                            "id": 359160,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Oryza",
+                                                                                                    "id": 4527,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Oryza longistaminata",
+                                                                                                            "id": 4528,
+                                                                                                            "code": "ORYLO"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Oryza rufipogon",
+                                                                                                            "id": 4529,
+                                                                                                            "code": "ORYRU"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Oryza sativa",
+                                                                                                            "id": 4530,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "Oryza nivara",
+                                                                                                                    "id": 4536,
+                                                                                                                    "code": "ORYNI"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "Oryza sativa subsp. indica",
+                                                                                                                    "id": 39946,
+                                                                                                                    "code": "ORYSI"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "Oryza sativa subsp. japonica",
+                                                                                                                    "id": 39947,
+                                                                                                                    "code": "ORYSJ"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Oryza brachyantha",
+                                                                                                            "id": 4533,
+                                                                                                            "code": "ORYBR"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Oryza punctata",
+                                                                                                            "id": 4537,
+                                                                                                            "code": "ORYPU"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Oryza glaberrima",
+                                                                                                            "id": 4538,
+                                                                                                            "code": "ORYGL"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Pooideae",
+                                                                                                    "id": 147368,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Brachypodium distachyon",
+                                                                                                            "id": 15368,
+                                                                                                            "code": "BRADI"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Triticeae",
+                                                                                                            "id": 147389,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "Hordeum vulgare subsp. vulgare",
+                                                                                                                    "id": 112509,
+                                                                                                                    "code": "HORVV"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "Triticinae",
+                                                                                                                    "id": 1648030,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "Triticum",
+                                                                                                                            "id": 4564,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "Triticum aestivum",
+                                                                                                                                    "id": 4565,
+                                                                                                                                    "code": "WHEAT"
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "name": "Triticum urartu",
+                                                                                                                                    "id": 4572,
+                                                                                                                                    "code": "TRIUA"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "name": "Aegilops tauschii",
+                                                                                                                            "id": 37682,
+                                                                                                                            "code": "AEGTA"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Musa acuminata subsp. malaccensis",
+                                                                                    "id": 214687,
+                                                                                    "code": "MUSAM"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Pentapetalae",
+                                                            "id": 1437201,
+                                                            "children": [
+                                                                {
+                                                                    "name": "Chenopodium quinoa",
+                                                                    "id": 63459,
+                                                                    "code": "CHEQI"
+                                                                },
+                                                                {
+                                                                    "name": "asterids",
+                                                                    "id": 71274,
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "campanulids",
+                                                                            "id": 91882,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Asteraceae",
+                                                                                    "id": 4210,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Helianthus annuus",
+                                                                                            "id": 4232,
+                                                                                            "code": "HELAN"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Cynara cardunculus var. scolymus",
+                                                                                            "id": 59895,
+                                                                                            "code": "CYNCS"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Daucus carota subsp. sativus",
+                                                                                    "id": 79200,
+                                                                                    "code": "DAUCS"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "lamiids",
+                                                                            "id": 91888,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Solanaceae",
+                                                                                    "id": 4070,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Nicotiana",
+                                                                                            "id": 4085,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Nicotiana tabacum",
+                                                                                                    "id": 4097,
+                                                                                                    "code": "TOBAC"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Nicotiana attenuata",
+                                                                                                    "id": 49451,
+                                                                                                    "code": "NICAT"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Solanoideae",
+                                                                                            "id": 424551,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Capsicum annuum",
+                                                                                                    "id": 4072,
+                                                                                                    "code": "CAPAN"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Solanum",
+                                                                                                    "id": 4107,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Solanum lycopersicum",
+                                                                                                            "id": 4081,
+                                                                                                            "code": "SOLLC"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Solanum tuberosum",
+                                                                                                            "id": 4113,
+                                                                                                            "code": "SOLTU"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Coffea canephora",
+                                                                                    "id": 49390,
+                                                                                    "code": "COFCA"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Actinidia chinensis var. chinensis",
+                                                                            "id": 1590841,
+                                                                            "code": "ACTCC"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "rosids",
+                                                                    "id": 71275,
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Vitis vinifera",
+                                                                            "id": 29760,
+                                                                            "code": "VITVI"
+                                                                        },
+                                                                        {
+                                                                            "name": "fabids",
+                                                                            "id": 91835,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Malpighiales",
+                                                                                    "id": 3646,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Populus trichocarpa",
+                                                                                            "id": 3694,
+                                                                                            "code": "POPTR"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Manihot esculenta",
+                                                                                            "id": 3983,
+                                                                                            "code": "MANES"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Cucumis sativus",
+                                                                                    "id": 3659,
+                                                                                    "code": "CUCSA"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Rosales",
+                                                                                    "id": 3744,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Cannabis sativa",
+                                                                                            "id": 3483,
+                                                                                            "code": "CANSA"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Rosaceae",
+                                                                                            "id": 3745,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Prunus",
+                                                                                                    "id": 3754,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Prunus dulcis",
+                                                                                                            "id": 3755,
+                                                                                                            "code": "PRUDU"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Prunus persica",
+                                                                                                            "id": 3760,
+                                                                                                            "code": "PRUPE"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Rosa chinensis",
+                                                                                                    "id": 74649,
+                                                                                                    "code": "ROSCH"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "50 kb inversion clade",
+                                                                                    "id": 2231393,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Lupinus angustifolius",
+                                                                                            "id": 3871,
+                                                                                            "code": "LUPAN"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "NPAAA clade",
+                                                                                            "id": 2231382,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Phaseoleae",
+                                                                                                    "id": 163735,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Glycine max",
+                                                                                                            "id": 3847,
+                                                                                                            "code": "SOYBN"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Phaseolus vulgaris",
+                                                                                                            "id": 3885,
+                                                                                                            "code": "PHAVU"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Phaseolus angularis",
+                                                                                                            "id": 3914,
+                                                                                                            "code": "PHAAN"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Hologalegina",
+                                                                                                    "id": 2233838,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "Medicago truncatula",
+                                                                                                            "id": 3880,
+                                                                                                            "code": "MEDTR"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "name": "Lotus japonicus",
+                                                                                                            "id": 34305,
+                                                                                                            "code": "LOTJA"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "malvids",
+                                                                            "id": 91836,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Malvaceae",
+                                                                                    "id": 3629,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Gossypium",
+                                                                                            "id": 3633,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Gossypium hirsutum",
+                                                                                                    "id": 3635,
+                                                                                                    "code": "GOSHI"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Gossypium arboreum",
+                                                                                                    "id": 29729,
+                                                                                                    "code": "GOSAR"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Gossypium raimondii",
+                                                                                                    "id": 29730,
+                                                                                                    "code": "GOSRA"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Theobroma cacao",
+                                                                                            "id": 3641,
+                                                                                            "code": "THECC"
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Corchorus capsularis",
+                                                                                            "id": 210143,
+                                                                                            "code": "COCAP"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Brassicaceae",
+                                                                                    "id": 3700,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Arabidopsis",
+                                                                                            "id": 3701,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Arabidopsis thaliana",
+                                                                                                    "id": 3702,
+                                                                                                    "code": "ARATH"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Arabidopsis lyrata",
+                                                                                                    "id": 59689,
+                                                                                                    "code": "ARALY"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Brassica",
+                                                                                            "id": 3705,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "Brassica napus",
+                                                                                                    "id": 3708,
+                                                                                                    "code": "BRANA"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Brassica rapa subsp. pekinensis",
+                                                                                                    "id": 51351,
+                                                                                                    "code": "BRARP"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "Brassica oleracea",
+                                                                                                    "id": 109376,
+                                                                                                    "code": "BRAOL"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Arabis alpina",
+                                                                                            "id": 50452,
+                                                                                            "code": "ARAAL"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Eucalyptus grandis",
+                                                                                    "id": 71139,
+                                                                                    "code": "EUCGR"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Citrus clementina",
+                                                                                    "id": 85681,
+                                                                                    "code": "CITCL"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Selaginella moellendorffii",
+                                    "id": 88036,
+                                    "code": "SELML"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

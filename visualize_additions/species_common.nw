@@ -1,0 +1,95 @@
+(
+(
+'Selaginella moellendorffii':4,
+(
+'Actinidia chinensis var. chinensis':4,
+'Musa acuminata subsp. malaccensis':4,
+'Citrus clementina':4,
+'Daucus carota subsp. sativus':4,
+'Eucalyptus grandis':4,
+'Chenopodium quinoa':4,
+'Coffea canephora':4,
+'Vitis vinifera':4,
+'Amborella trichopoda':4,
+'Asparagus officinalis':4,
+(
+'Hordeum vulgare subsp. vulgare':4,
+'Eragrostis tef':4,
+'Brachypodium distachyon':4,
+'Zea mays':4,
+(
+'Triticum urartu':4,
+'Triticum aestivum':4
+)Triticum:4,
+'Sorghum bicolor':4,
+'Setaria italica':4,
+(
+(
+'Oryza sativa Japonica Group':4,
+'Oryza sativa Indica Group':4
+)'Oryza sativa':4,
+'Oryza glaberrima':4,
+'Oryza punctata':4,
+'Oryza nivara':4,
+'Oryza brachyantha':4,
+'Oryza rufipogon':4,
+'Oryza longistaminata':4
+)Oryza:4
+)Poaceae:4,
+(
+'Cynara cardunculus var. scolymus':4,
+'Helianthus annuus':4
+)Asteraceae:4,
+(
+'Nicotiana attenuata':4,
+(
+'Solanum tuberosum':4,
+'Solanum lycopersicum':4
+)Solanum:4,
+'Capsicum annuum':4
+)Solanaceae:4,
+(
+'Vigna angularis':4,
+'Phaseolus vulgaris':4,
+'Medicago truncatula':4,
+'Lupinus angustifolius':4,
+'Glycine max':4
+)Fabaceae:4,
+(
+'Arabis alpina':4,
+(
+'Brassica oleracea var. oleracea':4,
+'Brassica napus':4
+)Brassica:4,
+'Arabidopsis thaliana':4
+)Brassicaceae:4,
+(
+'Manihot esculenta':4,
+'Populus trichocarpa':4
+)Malpighiales:4,
+'Cucumis sativus':4,
+(
+'Corchorus capsularis':4,
+'Gossypium raimondii':4,
+'Theobroma cacao':4
+)Malvaceae:4,
+(
+(
+'Rosa chinensis':4,
+(
+'Prunus persica':4,
+'Prunus dulcis':4
+)Prunus:4
+)Rosaceae:4,
+'Cannabis sativa':4
+)Rosales:4,
+'Papaver somniferum':4
+)Magnoliopsida:4,
+'Physcomitrium patens':4,
+'Marchantia polymorpha':4
+)Streptophyta:4,
+(
+'Ostreococcus lucimarinus CCE9901':4,
+'Chlamydomonas reinhardtii':4
+)Chlorophyta:4
+)Viridiplantae:4;

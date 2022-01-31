@@ -1,0 +1,256 @@
+(
+(
+(
+'Chara braunii':4,
+(
+(
+'Selaginella moellendorffii':4,
+(
+(
+'Nymphaea colorata':4,
+'Amborella trichopoda':4,
+(
+(
+'Zostera marina':4,
+(
+'Dioscorea cayenensis subsp. rotundata':4,
+'Asparagus officinalis':4,
+(
+'Musa acuminata subsp. malaccensis':4,
+(
+'Ananas comosus':4,
+(
+(
+(
+'Eragrostis tef':4,
+'Eragrostis curvula':4
+)Eragrostis:4,
+(
+'Panicum hallii var. hallii':4,
+(
+'Saccharum spontaneum':4,
+'Zea mays':4,
+'Sorghum bicolor':4
+)Andropogoneae:4,
+(
+'Setaria viridis':4,
+'Setaria italica':4
+)Setaria:4
+)Panicoideae:4
+)'PACMAD clade':4,
+(
+'Leersia perrieri':4,
+(
+'Oryza barthii':4,
+'Oryza meridionalis':4,
+'Oryza glumipatula':4,
+'Oryza glaberrima':4,
+'Oryza punctata':4,
+'Oryza nivara':4,
+'Oryza brachyantha':4,
+(
+'Oryza sativa Japonica Group':4,
+'Oryza sativa Indica Group':4
+)'Oryza sativa':4,
+'Oryza rufipogon':4,
+'Oryza longistaminata':4
+)Oryza:4,
+(
+'Brachypodium distachyon':4,
+(
+(
+'Aegilops tauschii subsp. strangulata':4,
+(
+'Triticum dicoccoides':4,
+'Triticum spelta':4,
+'Triticum urartu':4,
+'Triticum turgidum subsp. durum':4,
+'Triticum aestivum':4
+)Triticum:4
+)Triticinae:4,
+'Secale cereale':4,
+'Hordeum vulgare subsp. vulgare':4
+)Triticeae:4
+)Pooideae:4
+)'BOP clade':4
+)Poaceae:4
+)Poales:4
+)commelinids:4
+)Petrosaviidae:4
+)Liliopsida:4,
+(
+'Kalanchoe fedtschenkoi':4,
+(
+'Actinidia chinensis var. chinensis':4,
+(
+'Daucus carota subsp. sativus':4,
+(
+'Cynara cardunculus var. scolymus':4,
+'Lactuca sativa':4,
+'Helianthus annuus':4
+)Asteraceae:4
+)campanulids:4,
+(
+'Coffea canephora':4,
+(
+'Olea europaea subsp. europaea':4,
+'Sesamum indicum':4
+)Lamiales:4,
+(
+'Ipomoea triloba':4,
+(
+(
+'Nicotiana attenuata':4,
+'Nicotiana tabacum':4
+)Nicotiana:4,
+(
+(
+'Solanum pennellii':4,
+'Solanum tuberosum':4,
+'Solanum melongena':4,
+'Solanum pimpinellifolium':4,
+'Solanum lycopersicum':4
+)Solanum:4,
+'Capsicum annuum':4
+)Solanoideae:4
+)Solanaceae:4
+)Solanales:4
+)lamiids:4
+)asterids:4,
+(
+'Chenopodium quinoa':4,
+'Beta vulgaris subsp. vulgaris':4
+)Chenopodiaceae:4,
+(
+'Vitis vinifera':4,
+(
+'Eucalyptus grandis':4,
+(
+'Citrus clementina':4,
+'Pistacia vera':4
+)Sapindales:4,
+(
+'Camelina sativa':4,
+'Eutrema salsugineum':4,
+'Arabis alpina':4,
+(
+'Brassica oleracea var. oleracea':4,
+(
+'Brassica rapa subsp. trilocularis':4,
+'Brassica rapa subsp. pekinensis':4
+)'Brassica rapa':4,
+'Brassica nigra':4,
+'Brassica napus':4
+)Brassica:4,
+(
+'Arabidopsis halleri subsp. gemmifera':4,
+'Arabidopsis lyrata subsp. lyrata':4,
+'Arabidopsis thaliana':4
+)Arabidopsis:4
+)Brassicaceae:4,
+(
+'Corchorus capsularis':4,
+'Theobroma cacao':4,
+(
+'Gossypium raimondii':4,
+'Gossypium arboreum':4,
+'Gossypium hirsutum':4
+)Gossypium:4
+)Malvaceae:4
+)malvids:4,
+(
+(
+'Quercus lobata':4,
+'Juglans regia':4,
+'Corylus avellana':4
+)Fagales:4,
+(
+'Lupinus angustifolius':4,
+(
+(
+'Trifolium pratense':4,
+'Lotus japonicus':4,
+'Medicago truncatula':4
+)Hologalegina:4,
+(
+(
+'Vigna radiata var. radiata':4,
+'Vigna angularis':4
+)Vigna:4,
+'Phaseolus vulgaris':4,
+'Glycine max':4
+)Phaseoleae:4
+)'NPAAA clade':4
+)'50 kb inversion clade':4,
+(
+(
+'Cucumis sativus':4,
+'Cucumis melo':4
+)Cucumis:4,
+'Citrullus lanatus':4
+)Cucurbitaceae:4,
+(
+'Manihot esculenta':4,
+'Populus trichocarpa':4
+)Malpighiales:4,
+(
+(
+'Rosa chinensis':4,
+(
+'Prunus avium':4,
+'Prunus persica':4,
+'Prunus dulcis':4
+)Prunus:4,
+'Malus domestica':4
+)Rosaceae:4,
+'Ficus carica':4,
+'Cannabis sativa':4
+)Rosales:4
+)fabids:4
+)rosids:4
+)Pentapetalae:4,
+'Papaver somniferum':4
+)Mesangiospermae:4
+)Magnoliopsida:4,
+(
+'Pinus taeda':4,
+(
+'Picea sitchensis':4,
+'Picea glauca':4
+)Picea:4
+)Pinaceae:4
+)Spermatophyta:4
+)Tracheophyta:4,
+'Physcomitrium patens':4,
+'Marchantia polymorpha':4
+)Embryophyta:4,
+'Klebsormidium flaccidum':4
+)Streptophyta:4,
+(
+(
+(
+'Ostreococcus lucimarinus CCE9901':4,
+'Ostreococcus tauri':4
+)Ostreococcus:4,
+(
+'Micromonas pusilla CCMP1545':4,
+'Micromonas commoda':4
+)Micromonas:4
+)Mamiellales:4,
+(
+'Chlorella variabilis':4,
+(
+'Volvox carteri':4,
+'Chlamydomonas reinhardtii':4
+)Chlamydomonadales:4
+)'core chlorophytes':4
+)Chlorophyta:4
+)Viridiplantae:4,
+(
+(
+'Cyanidioschyzon merolae strain 10D':4,
+'Galdieria sulphuraria':4
+)Cyanidiaceae:4,
+'Chondrus crispus':4
+)Rhodophyta:4
+)Eukaryota:4;
